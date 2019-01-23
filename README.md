@@ -27,3 +27,11 @@ A Mongo collection of EIDA WF_Catalogue regarding Digital Object Dublin Core Met
 A branch of B2STAGE api related to EPOS iRODS http api: Airods [EUDAT-B2STAGE](https://github.com/EUDAT-B2STAGE/http-api/tree/airods).
 
 ---------------------------------------------------------------------------------------------------------------
+
+
+## Orfeus_CC exec daily rules - 
+Like WFCatalogcollector script this project elaborate the actions (rules) and apply they to a list of files that fall into specific requirement [EOSC-ORFEUS-daily_rules](https://github.com/massimo1962/eosc-orfeus_cc-daily_rules).
+
+---------------------------------------------------------------------------------------------------------------
+
+
