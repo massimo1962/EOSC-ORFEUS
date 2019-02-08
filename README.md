@@ -24,7 +24,7 @@ A Mongo collection of EIDA WF_Catalogue regarding Digital Object Dublin Core Met
 ---------------------------------------------------------------------------------------------------------------
 
 ## B2STAGE HTTP-API : Airods
-A branch of B2STAGE api related to EPOS iRODS http api: Airods [EUDAT-B2STAGE](https://github.com/EUDAT-B2STAGE/http-api/tree/airods).
+A branch of B2STAGE api related to EPOS iRODS http api: Airods [AIRODS from:EUDAT-B2STAGE](https://github.com/massimo1962/http-api-airods/tree/master).
 
 ---------------------------------------------------------------------------------------------------------------
 
