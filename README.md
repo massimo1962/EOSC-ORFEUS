@@ -35,3 +35,10 @@ Like WFCatalogcollector script this project elaborate the actions (rules) and ap
 ---------------------------------------------------------------------------------------------------------------
 
 
+## Orfeus_CC Airods dind - 
+docker in docker airods api [EOSC-ORFEUS-dind-airods](https://github.com/massimo1962/dind_airods).
+
+---------------------------------------------------------------------------------------------------------------
+
+
+
