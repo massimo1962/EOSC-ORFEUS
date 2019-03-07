@@ -1,7 +1,7 @@
 # EOSC-ORFEUS
 a temporary repo for Orfeus-cc and stuff related to Eosc-Hub
 
-
+ATTENTION now there is an official repo here: [EPOS REPOSITORY](https://github.com/epos-eu?tab=repositories)
 
 ## iRODS docker
 A docker solution for irods all-in-one: icat db + iRODS [dockirods_aio](https://github.com/massimo1962/dockirods_aio).
